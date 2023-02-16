@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-## Hello there,
+## Greetings, fellow traveler,
 
-### I study visual perception in biological and artificial systems
+### As a researcher, I explore the fascinating intersection of visual perception and generative AI.
 
 <div style="text-align: justify">
 
-<p>My research focuses on understanding how objects and events of the outside world that a living being experiences through its sensors are represented in the nervous system.  How these representations are stored and used to ensure the survival and effective functioning of an organism. And how the structure of the system shapes the perception.</p>
-<p>I explore principles underlie mentioned processes in the context of the <b><em>visual system</em></b>. Specifically, I target late stages of visual processing, where the recognition of complex objects and faces happens.</p>
-<p>On the other side, I pay as much attention to <b><em>artificial systems</em></b> for two main reasons. First, due to a number of observed similarities between biological systems and artificial neural networks, the latter can be conveniently used as models of visual perception. Second, the wide application of systems of computer vision models makes it important to understand the differences between the models and human visual perception. Thus, I investigate how artificial neural networks form high-level representations and how such representations determine their decision process.</p>
+<p>I'm driven by a passion for understanding how we see and perceive the world, and how we can use technology to enhance and augment these experiences.</p>
+<p>I believe that the study of visual perception holds the key to unlocking the full potential of generative AI. The mechanisms of how the brain processes visual information can inform the development of algorithms that generate more realistic, compelling, and, or even healing, visuals.</p> 
+<p>On the other hand, advances in generative AI can lead to new insights into the nature of perception and the representation of visual information in the brain.</p>
+<p>Through my work, I aim to push the boundaries of what's possible at this intersection and to create innovative, cutting-edge technologies that can enrich our experiences and enhance our understanding of the world. Join me on this journey of exploring the wonders of visual perception and generative AI. </p>
 
 </div>
